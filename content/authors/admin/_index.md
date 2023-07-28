@@ -1,7 +1,7 @@
 ---
 title: Giuseppe Colavito
 role: PhD Student
-avatar_filename: img20210909190043.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include NLP, Software Engineering, Machine Learning
 interests: []
 social:
