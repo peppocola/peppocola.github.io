@@ -22,7 +22,7 @@ url_project: ""
 publication_short: NLBSE'22
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
-title: Issue report classification using pre-trained language models
+title: Issue Report Classification Using Pre-Trained Language Models
 doi: https://doi.org/10.1145/3528588.3528659
 featured: false
 tags: []
