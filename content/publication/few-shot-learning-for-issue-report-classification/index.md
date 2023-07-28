@@ -1,7 +1,7 @@
 ---
 title: Few-Shot Learning for Issue Report Classification
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Giuseppe Colavito
   - Filippo Lanubile
