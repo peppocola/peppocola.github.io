@@ -24,13 +24,13 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: Issue report classification using pre-trained language models
 doi: https://doi.org/10.1145/3528588.3528659
-featured: true
+featured: false
 tags: []
 projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 date: 2023-07-28T16:39:10.932Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
