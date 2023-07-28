@@ -17,11 +17,11 @@ author_notes: []
 publication: Proceedings of the 1st International Workshop on Natural
   Language-based Software Engineering
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: ""
 url_project: ""
 publication_short: NLBSE'22
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_source: ""
+url_video: ""
 title: Issue Report Classification Using Pre-Trained Language Models
 doi: https://doi.org/10.1145/3528588.3528659
 featured: false
@@ -35,5 +35,5 @@ date: 2022-05-21T16:39:10.932Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: ""
 ---
