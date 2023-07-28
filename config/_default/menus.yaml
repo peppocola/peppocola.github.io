@@ -7,11 +7,11 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Gallery
-    url: '#gallery'
-    weight: 20
   - name: Publications
     url: '#featured'
+    weight: 20
+  - name: Gallery
+    url: '#gallery'
     weight: 30
   - name: CV
     url: uploads/resume.pdf

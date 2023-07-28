@@ -49,9 +49,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Colavito
 highlight_name: true
-first_name: Alice
+first_name: Giuseppe
 email: giuseppe.colavito@uniba.it
 ---
 I am Giuseppe Colavito, a PhD student of the Italian [National PhD in Artificial Intelligence for Society](https://phd-ai-society.di.unipi.it/), supervised by Dr. [Nicole Novielli](https://collab.di.uniba.it/nicole/) and Dr. [Filippo Lanubile](http://www.di.uniba.it/~lanubile/).
