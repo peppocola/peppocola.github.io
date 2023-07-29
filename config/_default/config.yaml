@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: PeppoCola # Website name
-baseURL: 'https://giuseppecolavito.netlify.app/' # Website URL
+baseURL: 'https://peppocola.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
