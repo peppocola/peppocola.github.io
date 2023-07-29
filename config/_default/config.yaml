@@ -73,8 +73,3 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
-backend:
-  name: git-gateway
-  repo: peppocola/peppocola.github.io
-  branch: master
-  site_domain: peppocola.github.io
