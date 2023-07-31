@@ -48,14 +48,14 @@ education:
       year: 2020
 superuser: true
 status:
-  icon: ☕️
+  icon: 💾
 last_name: Colavito
 highlight_name: true
 first_name: Giuseppe
 email: giuseppe.colavito@uniba.it
 ---
 I am Giuseppe Colavito, a PhD student of the Italian [National PhD in Artificial Intelligence for Society](https://phd-ai-society.di.unipi.it/), supervised by Dr. [Nicole Novielli](https://collab.di.uniba.it/nicole/) and Dr. [Filippo Lanubile](http://www.di.uniba.it/~lanubile/).
-I have a double affiliation with the University of Pisa and University of Bari.
+I hold dual affiliations with the University of Pisa and the University of Bari.
 
 Currently, I am an active member of the [Collaborative Development Group](https://collab.di.uniba.it/), a Software Engineering Group at the [Department of Computer Science](https://www.uniba.it/it/ricerca/dipartimenti/informatica), University of Bari.
 
