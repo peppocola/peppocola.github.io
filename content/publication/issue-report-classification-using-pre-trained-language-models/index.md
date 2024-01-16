@@ -24,7 +24,7 @@ url_source: ""
 url_video: ""
 title: Issue Report Classification Using Pre-Trained Language Models
 doi: https://doi.org/10.1145/3528588.3528659
-featured: true
+featured: false
 tags: []
 projects: []
 image:
