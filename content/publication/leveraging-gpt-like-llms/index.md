@@ -7,7 +7,6 @@ authors:
   - Filippo Lanubile
   - Nicole Novielli
   - Luigi Quaranta
-doi: 
 publication: In Proceedings of 21st International Conference on Mining Software Repositories (MSR 2024), April 2024
 publication_short: " MSR"
 abstract: Issue labeling is a crucial task for the effective management of
