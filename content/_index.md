@@ -23,8 +23,8 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: publications
     content:
-      id: publications
       title: Publications
       count: 0
       filters:
