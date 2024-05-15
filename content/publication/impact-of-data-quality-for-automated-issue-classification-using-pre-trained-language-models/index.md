@@ -12,7 +12,7 @@ publication: Journal of Systems and Software
 publication_short: " JSS"
 abstract: Issue classification aims to recognize whether an issue reports a bug, a request for enhancement or support. In this paper we use pre-trained models for the automatic classification of issues and investigate how the quality of data affects the performance of classifiers. Despite the application of data quality filters, none of our attempts had a significant effect on model quality. As root cause we identify a threat to construct validity underlying the issue labeling.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart

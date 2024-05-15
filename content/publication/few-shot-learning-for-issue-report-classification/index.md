@@ -20,7 +20,7 @@ abstract: "We describe our participation in the tool competition in the scope of
   challenge, we evaluate the SETFIT model on the challenge test set, achieving
   Fl-micro =.7767 "
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart

@@ -26,7 +26,7 @@ abstract: Issue labeling is a crucial task for the effective management of
   classify issue reports in the absence of labeled data that would be
   required to fine-tune BERT-like LLMs.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
