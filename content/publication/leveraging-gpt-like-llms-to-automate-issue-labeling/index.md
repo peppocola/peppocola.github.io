@@ -8,7 +8,7 @@ authors:
   - Nicole Novielli
   - Luigi Quaranta
 publication: In Proceedings of 21st International Conference on Mining Software Repositories (MSR 2024), April 2024
-publication_short: " MSR"
+publication_short: "MSR'24"
 abstract: Issue labeling is a crucial task for the effective management of
   software projects. To date, several approaches have been put forth
   for the automatic assignment of labels to issue reports. In particu-
