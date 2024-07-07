@@ -16,3 +16,6 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 40
+  - name: Blog
+    url: http://www.pompelmo.xyz/
+    weight: 50
