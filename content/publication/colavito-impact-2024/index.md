@@ -1,0 +1,91 @@
+---
+title: Impact of data quality for automatic issue classification using pre-trained
+  language models
+
+# Authors
+# A YAML list of author names
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
+authors:
+- Giuseppe Colavito
+- Filippo Lanubile
+- Nicole Novielli
+- Luigi Quaranta
+
+# Author notes (such as 'Equal Contribution')
+# A YAML list of notes for each author in the above `authors` list
+author_notes: []
+
+date: '2023-07-24'
+
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2023-07-24T13:04:01.514926Z'
+
+# Publication type.
+# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+publication_types:
+- article-journal
+
+# Publication name and optional abbreviated publication name.
+publication: ''
+publication_short: ''
+
+doi: 10.1016/j.jss.2023.111838
+
+abstract: 'Issue classification aims to recognize whether an issue reports a bug,
+  a request for enhancement or support. In this paper we use pre-trained models for
+  the automatic classification of issues and investigate how the quality of data affects
+  the performance of classifiers. Despite the application of data quality filters,
+  none of our attempts had a significant effect on model quality. As root cause we
+  identify a threat to construct validity underlying the issue labeling. Editor’s
+  note: Open Science material was validated by the Journal of Systems and Software
+  Open Science Board.'
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags:
+- BERT
+- GitHub
+- Issue labeling
+- Issue trackers
+- Label correctness
+- Model quality
+
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0164121223002339
+---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
