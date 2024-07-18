@@ -33,4 +33,5 @@ tags:
 - Supervised learning
 - Training
 - Training data
+featured: true
 ---
