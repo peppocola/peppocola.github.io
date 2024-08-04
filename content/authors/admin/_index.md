@@ -87,6 +87,15 @@ education:
       text: Download Thesis
       url: uploads/bsc-thesis.pdf
 work:
+  - position: Research Scholar
+    company_name: NASA Goddard Space Flight Center
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-19
+    date_end: 2023-11-19
+    summary: |
+      Large Language Model based models for Safety and Mission Assurance Data Analysis
+    
   - position: Research Assistant
     company_name: University of Bari
     company_url: ''
