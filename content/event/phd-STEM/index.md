@@ -12,7 +12,7 @@ address:
   postcode: '70125'
   country: Italy
 
-summary: I will present the recent advances of my PhD research on "Foundation Models for Automatic Labeling in Software Engineering".
+summary: I will be presenting a poster on the recent advances in my PhD research on 'Foundation Models for Automatic Labeling in Software Engineering'.
 abstract: 'STEM PhD Students of UniBA present their research topics to the academic community, the stakeholders and the master students.'
 
 # Talk start and end times.
