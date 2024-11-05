@@ -16,6 +16,9 @@ main:
   - name: News
     url: /#news
     weight: 13
+  - name: Available Thesis
+    url: /#thesis
+    weight: 14
   - name: CV
     url: uploads/resume.pdf
     weight: 40
