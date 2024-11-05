@@ -12,7 +12,7 @@ address:
   postcode: '70125'
   country: Italy
 
-summary: I will present the recent advances of my PhD research on "Generative AI for Automatic Labeling in Software Engineering".
+summary: I will present the recent advances of my PhD research on "Foundation Models for Automatic Labeling in Software Engineering".
 abstract: 'The PhD Students of the Departments of Computer Science and Mathematics present their research topics to the academic community, the stakeholders and the master students.'
 
 # Talk start and end times.
