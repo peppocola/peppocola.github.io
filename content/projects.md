@@ -1,6 +1,6 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Theses'
+date: 2024-12-06
 type: landing
 
 design:
@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Available Theses
+      text: Feel free to select one of these topics, or propose a brand new one if you want to start a thesis work with me 🤝
       filters:
         folders:
-          - project
+          - theses
     design:
       view: article-grid
       fill_image: false
