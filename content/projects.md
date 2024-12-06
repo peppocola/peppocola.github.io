@@ -1,5 +1,5 @@
 ---
-title: 'Theses'
+title: 'Available Theses'
 date: 2024-12-06
 type: landing
 
