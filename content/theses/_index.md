@@ -13,10 +13,10 @@ sections:
   - block: collection
     id: theses
     content:
-      title: Teaching
+      title: Theses
       filters:
         folders:
-          - teaching
+          - theses
     design:
       view: article-grid
       columns: 3
