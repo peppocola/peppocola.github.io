@@ -18,6 +18,6 @@ sections:
         folders:
           - theses
     design:
-      view: article-grid
+      view: card
       columns: 3
 ---
