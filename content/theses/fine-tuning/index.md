@@ -1,5 +1,5 @@
 ---
-title: Investigating Prompt Variations for Issue Report Classification with Large Language Models
+title: Fine-tuning LLMs for Issue Report Classification
 date: 2024-12-06
 tags:
   - Issue Report Classification
