@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: layered-steps-haikei.svg
+          filename: layered-waves-haikei.svg
           filters:
             brightness: 1.0
           size: cover
