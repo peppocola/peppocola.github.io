@@ -5,10 +5,6 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
-<<<<<<< HEAD
-=======
-# Provide permission to clone the repo and deploy it to GitHub Pages
->>>>>>> b183dc5c2ff09f6626566b18ad2996201d03efe6
 permissions:
   contents: read
   pages: write
@@ -53,7 +49,6 @@ jobs:
         name: github-pages-artifact
         path: ./public
         compression-level: 0  # Adjust based on needs
-
   deploy:
     if: github.repository_owner != 'HugoBlox'
     environment:
