@@ -48,7 +48,6 @@ jobs:
       with:
         name: github-pages-artifact
         path: ./public
-        compression-level: 0  # Adjust based on needs
   deploy:
     if: github.repository_owner != 'HugoBlox'
     environment:
