@@ -3,8 +3,8 @@
 title: Giuseppe Colavito
 
 # Full name (for SEO)
-first_name: Giuseppe Colavito
-last_name: Chien
+first_name: Giuseppe
+last_name: Colavito
 
 # Status emoji
 status:
