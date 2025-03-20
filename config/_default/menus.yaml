@@ -16,7 +16,7 @@ main:
   - name: News
     url: /#news
     weight: 13
-  - name: Available Thesis
+  - name: Available Theses
     url: /theses
     weight: 14
   - name: CV
