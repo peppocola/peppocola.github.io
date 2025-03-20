@@ -71,7 +71,7 @@ education:
       **Abstract**: "This thesis explores the automatic classification of issue reports in software development, aiming to improve efficiency in issue management and prioritization. It addresses the challenge of misclassification between bug reports, enhancement requests, and questions, which consumes valuable developer resources. Leveraging recent advances in natural language processing, specifically BERT and its variants, the study develops and evaluates supervised learning approaches using issue text and authorship information. The proposed models surpass baseline performance, achieving an F1 score of .8591 using textual data alone. The research includes a comprehensive error analysis to identify key factors influencing classification accuracy. The findings underscore the practical utility of automated issue labeling systems in optimizing software development processes."
     button: 
       text: Download Thesis
-      url: uploads/msc-thesis.pdf
+      url: /uploads/msc-thesis.pdf
   - area: BSc Computer Science
     institution: University of Bari
     date_start: 2017-09-01
@@ -85,7 +85,7 @@ education:
 
     button: 
       text: Download Thesis
-      url: uploads/bsc-thesis.pdf
+      url: /uploads/bsc-thesis.pdf
 work:
   - position: Research Scholar
     company_name: NASA Goddard Space Flight Center
