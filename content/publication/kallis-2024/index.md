@@ -1,0 +1,37 @@
+---
+title: The NLBSE'24 Tool Competition
+authors:
+- Rafael Kallis
+- Giuseppe Colavito
+- Ali Al-Kaswan
+- Luca Pascarella
+- Oscar Chaparro
+- Pooja Rani
+date: '2024-01-01'
+publishDate: '2025-05-13T14:29:01.823845Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the Third ACM/IEEE International Workshop on NL-Based
+  Software Engineering*'
+doi: 10.1145/3643787.3648038
+abstract: We report on the organization and results of the tool competition of the
+  third International Workshop on Natural Language-based Software Engineering (NLBSE'24).
+  As in prior editions, we organized the competition on automated issue report classification,
+  with focus on small repositories, and on automated code comment classification,
+  with a larger dataset. In this tool competition edition, six teams submitted multiple
+  classification models to automatically classify issue reports and code comments.
+  The submitted models were fine-tuned and evaluated on a benchmark dataset of 3 thousand
+  issue reports or 82 thousand code comments, respectively. This paper reports details
+  of the competition, including the rules, the teams and contestant models, and the
+  ranking of models based on their average classification performance across issue
+  report and code comment types.
+tags:
+- tool-competition
+- labeling
+- benchmark
+- issue reports
+- code comments
+links:
+- name: URL
+  url: https://doi.org/10.1145/3643787.3648038
+---
