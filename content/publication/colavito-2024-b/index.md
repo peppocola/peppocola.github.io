@@ -11,6 +11,7 @@ publication_types:
 - paper-conference
 publication: '*2024 IEEE/ACM 21st International Conference on Mining Software Repositories
   (MSR)*'
+doi: https://doi.org/10.1145/3643991.3644903
 abstract: Issue labeling is a crucial task for the effective management of software
   projects. To date, several approaches have been put forth for the automatic assignment
   of labels to issue reports. In particular, supervised approaches based on the fine-tuning
