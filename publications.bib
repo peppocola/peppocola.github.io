@@ -54,7 +54,6 @@
   urldate = {2024-07-07},
   abstract = {Issue classification aims to recognize whether an issue reports a bug, a request for enhancement or support. In this paper we use pre-trained models for the automatic classification of issues and investigate how the quality of data affects the performance of classifiers. Despite the application of data quality filters, none of our attempts had a significant effect on model quality. As root cause we identify a threat to construct validity underlying the issue labeling. Editor's note: Open Science material was validated by the Journal of Systems and Software Open Science Board.},
   keywords = {BERT,GitHub,Issue labeling,Issue trackers,Label correctness,Model quality},
-  file = {C:\Users\mastermind\Zotero\storage\A6J5SMB8\S0164121223002339.html}
 }
 
 @inproceedings{Colavito-2024b,
@@ -77,7 +76,6 @@
   author = {Novielli, Nicole and Oliveto, Rocco and Palomba, Fabio and Calefato, Fabio and Colavito, Giuseppe and De Martino, Vincenzo and Della Porta, Antonio and Giordano, Giammaria and Guglielmi, Emanuela and Lanubile, Filippo},
   year = {2024},
   urldate = {2024-07-15},
-  file = {C:\Users\mastermind\Zotero\storage\28AXCEFV\Novielli-2024.pdf}
 }
 
 @inproceedings{Polignano-2022,
@@ -93,5 +91,55 @@
   urldate = {2024-07-07},
   isbn = {978-1-4503-9232-7},
   langid = {english},
-  file = {C:\Users\mastermind\Zotero\storage\XZAPN3G2\Polignano et al. - 2022 - Lexicon Enriched Hybrid Hate Speech Detection with.pdf}
 }
+
+@inproceedings{Kallis_2024,
+	title        = {The NLBSE'24 Tool Competition},
+	author       = {Kallis, Rafael and Colavito, Giuseppe and Al-Kaswan, Ali and Pascarella, Luca and Chaparro, Oscar and Rani, Pooja},
+	year         = 2024,
+	booktitle    = {Proceedings of the Third ACM/IEEE International Workshop on NL-Based Software Engineering},
+	location     = {Lisbon, Portugal},
+	publisher    = {Association for Computing Machinery},
+	address      = {New York, NY, USA},
+	series       = {NLBSE '24},
+	pages        = {33–40},
+	doi          = {10.1145/3643787.3648038},
+	isbn         = 9798400705762,
+	url          = {https://doi.org/10.1145/3643787.3648038},
+	abstract     = {We report on the organization and results of the tool competition of the third International Workshop on Natural Language-based Software Engineering (NLBSE'24). As in prior editions, we organized the competition on automated issue report classification, with focus on small repositories, and on automated code comment classification, with a larger dataset. In this tool competition edition, six teams submitted multiple classification models to automatically classify issue reports and code comments. The submitted models were fine-tuned and evaluated on a benchmark dataset of 3 thousand issue reports or 82 thousand code comments, respectively. This paper reports details of the competition, including the rules, the teams and contestant models, and the ranking of models based on their average classification performance across issue report and code comment types.},
+	numpages     = 8,
+	keywords     = {tool-competition, labeling, benchmark, issue reports, code comments}
+}
+
+@article{Colavito_2025a,
+	title        = {Benchmarking large language models for automated labeling: The case of issue report classification},
+	author       = {Giuseppe Colavito and Filippo Lanubile and Nicole Novielli},
+	year         = 2025,
+	journal      = {Information and Software Technology},
+	volume       = 184,
+	pages        = 107758,
+	doi          = {https://doi.org/10.1016/j.infsof.2025.107758},
+	issn         = {0950-5849},
+	url          = {https://www.sciencedirect.com/science/article/pii/S0950584925000977},
+	keywords     = {Issue labeling, Generative AI, Software maintenance and evolution},
+	abstract     = {Context: Issue labeling is a fundamental task for software development as it is critical for the effective management of software projects. This practice involves assigning a label to issues, such as bug or feature request, denoting a task relevant to the project management. To date, large language models (LLMs) have been proposed to automate this task, including both fine-tuned BERT-like models and zero-shot GPT-like models. Objectives: In this paper, we investigate which LLMs offer the best trade-off between performance, response time, hardware requirements, and quality of the responses for issue report classification. Methods: We design and execute a comprehensive benchmark study to assess 22 generative decoder-only LLMs and 2 baseline BERT-like encoder-only models, which we evaluate on two different datasets of GitHub issues. Results: Generative LLMs demonstrate potential for zero-shot classification. However, their performance varies significantly across datasets and they require substantial computational resources for deployment. In contrast, BERT-like models show more consistent performance and lower resource requirements. Conclusions: Based on the empirical evidence provided in this study, we discuss implications for researchers and practitioners. In particular, our results suggest that fine-tuning BERT-like encoder-only models enables achieving consistent, state-of-the-art performance across datasets even in presence of a small amount of labeled data available for training.}
+}
+
+@inproceedings{Novielli_2024,
+	title        = {Continuous Quality Improvement of AI-based Systems: the QualAI Project},
+	author       = {Novielli, Nicole and Oliveto, Rocco and Palomba, Fabio and Calefato, Fabio and Colavito, Giuseppe and De Martino, Vincenzo and Della Porta, Antonio and Giordano, Giammaria and Guglielmi, Emanuela and Lanubile, Filippo and Quaranta, Luigi and Recupito, Gilberto and Scalabrino, Simone and Spina, Angelica and Vitale, Antonio},
+	year         = 2024,
+	booktitle    = {Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement},
+	location     = {Barcelona, Spain},
+	publisher    = {Association for Computing Machinery},
+	address      = {New York, NY, USA},
+	series       = {ESEM '24},
+	pages        = {603–607},
+	doi          = {10.1145/3674805.3695393},
+	isbn         = 9798400710476,
+	url          = {https://doi.org/10.1145/3674805.3695393},
+	abstract     = {QualAI is a two-year project aimed at defining a set of recommenders to continuously monitor, assess, and improve the quality of AI-based systems, with a particular focus on machine learning (ML) applications. We will develop recommenders for the quality assurance of both data and ML models to enable practitioners to mitigate technical debt. Special attention will be paid to communication challenges that may arise in hybrid teams comprising data scientists and software developers. This paper presents the project outline, provides an executive summary of the research activities, outlines the expected project outcomes, and reports the results obtained to date.},
+	numpages     = 5,
+	keywords     = {Machine Learning, Quality Assurance, Recommender Systems, Software Engineering}
+}
+
